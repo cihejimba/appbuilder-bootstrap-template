@@ -1,0 +1,8 @@
+{
+	"name": "appbuilder-bootstrap-template",
+	"dependencies": {
+		"jquery": "2.1.1",
+		"kendo-ui-core": "2014.3.1119",
+		"bootstrap": "3.3.1"
+	}
+}
